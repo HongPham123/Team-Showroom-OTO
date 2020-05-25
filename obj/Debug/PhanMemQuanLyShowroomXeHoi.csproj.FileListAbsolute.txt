@@ -1,0 +1,36 @@
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\bin\Debug\PhanMemQuanLiShowroomXeHoi.exe.config
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\bin\Debug\PhanMemQuanLiShowroomXeHoi.exe
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\bin\Debug\PhanMemQuanLiShowroomXeHoi.pdb
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.csprojAssemblyReference.cache
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fLogin.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fSell.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLiShowroomXeHoi.Properties.Resources.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.csproj.GenerateResource.cache
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLiShowroomXeHoi.exe
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLiShowroomXeHoi.pdb
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fCarDetails.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fCurrentBills.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fCustomer.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fGuarantee.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fAccountInfo.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fAdmin.resources
+D:\Visual Studio Projects\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.frmProducerName.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\bin\Debug\PhanMemQuanLiShowroomXeHoi.exe.config
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\bin\Debug\PhanMemQuanLiShowroomXeHoi.exe
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\bin\Debug\PhanMemQuanLiShowroomXeHoi.pdb
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fAccountInfo.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fAdmin.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fCarDetails.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fCurrentBills.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fCustomer.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fGuarantee.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fLogin.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.frmProducerName.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.fSell.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLiShowroomXeHoi.Properties.Resources.resources
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLyShowroomXeHoi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLiShowroomXeHoi.exe
+C:\Users\DELL\Desktop\CD\CD\PhanMemQuanLyShowroomXeHoi\PhanMemQuanLyShowroomXeHoi\obj\Debug\PhanMemQuanLiShowroomXeHoi.pdb

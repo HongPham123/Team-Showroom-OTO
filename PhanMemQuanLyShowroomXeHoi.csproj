@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D0B2D01-D6AE-4DC9-BA79-1E856003B7C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PhanMemQuanLiShowroomXeHoi</RootNamespace>
+    <AssemblyName>PhanMemQuanLiShowroomXeHoi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\AccessoryOfCarDAO.cs" />
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\BillDAO.cs" />
+    <Compile Include="DAO\BillInfoDetailsDAO.cs" />
+    <Compile Include="DAO\CarDAO.cs" />
+    <Compile Include="DAO\CustomerDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DAO\GuaranteeDAO.cs" />
+    <Compile Include="DAO\InstanceOFCarDAO.cs" />
+    <Compile Include="DAO\ProducerDAO.cs" />
+    <Compile Include="DAO\SpecificDescriptionOfCarDAO.cs" />
+    <Compile Include="DTO\AccessoryOfCar.cs" />
+    <Compile Include="DTO\Account.cs" />
+    <Compile Include="DTO\Bill.cs" />
+    <Compile Include="DTO\BillInfoDetails.cs" />
+    <Compile Include="DTO\Car.cs" />
+    <Compile Include="DTO\Customer.cs" />
+    <Compile Include="DTO\Guarantee.cs" />
+    <Compile Include="DTO\InstanceOfCar.cs" />
+    <Compile Include="DTO\Producer.cs" />
+    <Compile Include="DTO\SpecificDescriptionOfCar.cs" />
+    <Compile Include="fAccountInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAccountInfo.Designer.cs">
+      <DependentUpon>fAccountInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAdmin.Designer.cs">
+      <DependentUpon>fAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCarDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCarDetails.Designer.cs">
+      <DependentUpon>fCarDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCurrentBills.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCurrentBills.Designer.cs">
+      <DependentUpon>fCurrentBills.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fCustomer.Designer.cs">
+      <DependentUpon>fCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fGuarantee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fGuarantee.Designer.cs">
+      <DependentUpon>fGuarantee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProducerName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProducerName.Designer.cs">
+      <DependentUpon>frmProducerName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fSell.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fSell.Designer.cs">
+      <DependentUpon>fSell.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fAccountInfo.resx">
+      <DependentUpon>fAccountInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAdmin.resx">
+      <DependentUpon>fAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCarDetails.resx">
+      <DependentUpon>fCarDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCurrentBills.resx">
+      <DependentUpon>fCurrentBills.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fCustomer.resx">
+      <DependentUpon>fCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fGuarantee.resx">
+      <DependentUpon>fGuarantee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProducerName.resx">
+      <DependentUpon>frmProducerName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSell.resx">
+      <DependentUpon>fSell.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chevrolet-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ford-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Honda-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-toyota.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suzuki-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevrolet_orlando_black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevrolet-orlando-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevrolet-trailblazer-red.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chevrolet-trailblazer-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ford-everest-black.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ford-everest-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ford-newfocus-blue.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ford-newfocus-brown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honda-city-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honda-city-brown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honda-city-white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honda-civic-darkblue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honda-civic-gray.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\honda-civic-red.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suzuki-celerio-blue.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suzuki-celerio-red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suzuki-celerio-white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Suzuki-ciaz-brown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suzuki-ciaz-red.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toyota-fortuner-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toyota-fortuner-brown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toyota-fortuner-silver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toyota-innova-ventuner-black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toyota-innova-ventuner-red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Car\chevrolet-orlando-white.jpg" />
+    <Content Include="Resources\Car\chevrolet-trailblazer-red.JPG" />
+    <Content Include="Resources\Car\chevrolet-trailblazer-white.jpg" />
+    <Content Include="Resources\Car\chevrolet_orlando_black.jpg" />
+    <Content Include="Resources\Car\ford-everest-black.jpg" />
+    <Content Include="Resources\Car\ford-everest-white.jpg" />
+    <Content Include="Resources\Car\ford-newfocus-blue.jpeg" />
+    <Content Include="Resources\Car\ford-newfocus-brown.jpg" />
+    <Content Include="Resources\Car\honda-city-black.png" />
+    <Content Include="Resources\Car\honda-city-brown.png" />
+    <Content Include="Resources\Car\honda-city-white.png" />
+    <Content Include="Resources\Car\honda-civic-darkblue.jpg" />
+    <Content Include="Resources\Car\honda-civic-gray.jpg" />
+    <Content Include="Resources\Car\honda-civic-red.jpg" />
+    <Content Include="Resources\Car\suzuki-celerio-blue.jpg" />
+    <Content Include="Resources\Car\suzuki-celerio-red.png" />
+    <Content Include="Resources\Car\suzuki-celerio-white.jpg" />
+    <Content Include="Resources\Car\Suzuki-ciaz-brown.jpg" />
+    <Content Include="Resources\Car\suzuki-ciaz-red.jpg" />
+    <Content Include="Resources\Car\suzuki-logo.png" />
+    <Content Include="Resources\Car\toyota-fortuner-black.png" />
+    <Content Include="Resources\Car\toyota-fortuner-brown.png" />
+    <Content Include="Resources\Car\toyota-fortuner-silver.png" />
+    <Content Include="Resources\Car\toyota-innova-ventuner-black.png" />
+    <Content Include="Resources\Car\toyota-innova-ventuner-red.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

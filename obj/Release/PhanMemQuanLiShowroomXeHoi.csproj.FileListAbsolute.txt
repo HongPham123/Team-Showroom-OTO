@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\bin\Release\PhanMemQuanLiShowroomXeHoi.exe.config
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\bin\Release\PhanMemQuanLiShowroomXeHoi.exe
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\bin\Release\PhanMemQuanLiShowroomXeHoi.pdb
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.fLogin.resources
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.fSell.resources
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.Properties.Resources.resources
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.csproj.GenerateResource.cache
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.exe
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.pdb
+D:\Visual Studio Projects\PhanMemQuanLiShowroomXeHoi\PhanMemQuanLiShowroomXeHoi\obj\Release\PhanMemQuanLiShowroomXeHoi.csprojAssemblyReference.cache
